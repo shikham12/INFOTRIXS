@@ -1,7 +1,7 @@
 import requests
 import time
 
-API_KEY = 'd6c98de467c64de5a1050158240301'
+API_KEY = ''
 
 favorite_cities = []  # list for favorite cities
 
